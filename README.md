@@ -1,2 +1,3 @@
 # Starship-simulator-2d
-go go starship !
+
+litle game to learn canvas 2d dev in javascript
